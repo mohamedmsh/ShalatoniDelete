@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "68980076129",
+    "firebase_url": "https://shalatoni-e454a-default-rtdb.firebaseio.com",
+    "project_id": "shalatoni-e454a",
+    "storage_bucket": "shalatoni-e454a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68980076129:android:d8c87514929bf026644420",
+        "android_client_info": {
+          "package_name": "com.example.shalatoni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68980076129-qcsa69vvpj3mk62fov2fijimf72lbtlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3y245xOKWLhm9Kcyeevrt1NcUbxb9cas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68980076129-qcsa69vvpj3mk62fov2fijimf72lbtlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68980076129:android:d40bc619910824b6644420",
+        "android_client_info": {
+          "package_name": "com.example.shalatonidelete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68980076129-qcsa69vvpj3mk62fov2fijimf72lbtlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3y245xOKWLhm9Kcyeevrt1NcUbxb9cas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68980076129-qcsa69vvpj3mk62fov2fijimf72lbtlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68980076129:android:2deb97860f1db74d644420",
+        "android_client_info": {
+          "package_name": "com.example.shalatonirealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68980076129-qcsa69vvpj3mk62fov2fijimf72lbtlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3y245xOKWLhm9Kcyeevrt1NcUbxb9cas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68980076129-qcsa69vvpj3mk62fov2fijimf72lbtlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
